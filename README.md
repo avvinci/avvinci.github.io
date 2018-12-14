@@ -1,6 +1,6 @@
 # Developer Homepage
 
-My Personal [homepage](https://avvinci.github.io/). :)
+My Personal [homepage](https://avvinci.github.io/) :)
 
 
 ## Features
@@ -20,3 +20,7 @@ My Personal [homepage](https://avvinci.github.io/). :)
     - Contact Section
     - Footer Section
     - Optional Sections
+    
+## Todo
+    - Add more info
+    - Redesign
