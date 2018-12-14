@@ -1,6 +1,6 @@
-# Developer Portfolio
+# Developer Homepage
 
-My Personal [homepage](https://avvinci.github.io/).
+My Personal [homepage] :) (https://avvinci.github.io/).
 
 
 ## Features
