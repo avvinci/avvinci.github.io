@@ -1,16 +1,13 @@
 # Developer Homepage
 
-My Personal [homepage](https://avvinci.github.io/) :)
+Developer Website [See Here](https://avvinci.github.io/) :)
 
 
 ## Features
 
-* Fully responsive
-* Made with Bootstrap 
+* Responsive
 
 ## Contents
-
-
     - Header Section
     - Lead Section
     - Experience Section
@@ -22,5 +19,5 @@ My Personal [homepage](https://avvinci.github.io/) :)
     - Optional Sections
     
 ## Todo
-    - Add more info
-    - Redesign
+    - Use Better Simplistic Design
+
